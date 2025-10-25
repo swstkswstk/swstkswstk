@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swstkswstk&label=Profile%20views&color=0e75b6&style=flat" alt="swstkswstk" /> </p>
 
-- 🌱 I’m currently learning **MERN+Rust**
+- 🌱 I’m currently learning **Life**
 
 - 📫 How to reach me **swastikinreallife@gmail.com**
 
